@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jota Pe Hernández - Firme</title>
+    <link rel="manifest" href="manifest.json">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body { background-color: #050505; color: white; }
+        .btn-link {
+            background: #121212;
+            border: 1px solid #333;
+            transition: all 0.3s ease;
+        }
+        .btn-link:hover { border-color: #fbbf24; transform: scale(1.02); }
+    </style>
+</head>
+<body class="font-sans">
+
+    <div class="max-w-md mx-auto px-6 py-10 flex flex-col items-center min-h-screen">
+        
+        <div class="text-center mb-8">
+            <div class="relative inline-block">
+                <img src="https://unavatar.io/twitter/JotaPeHernandez" alt="Jota Pe" class="w-28 h-28 rounded-full border-4 border-yellow-500 shadow-2xl mb-4">
+                <span class="absolute bottom-4 right-0 bg-blue-500 text-white text-[10px] px-2 py-0.5 rounded-full border-2 border-black">✔</span>
+            </div>
+            <h1 class="text-2xl font-black italic uppercase italic">Jota Pe Hernández</h1>
+            <p class="text-yellow-500 font-bold tracking-widest text-xs mt-1">SENADOR DE LA REPÚBLICA</p>
+        </div>
+
+        <div id="links-container" class="w-full space-y-4">
+            <a href="https://www.youtube.com/@JotaPeHernandez" target="_blank" class="btn-link flex items-center p-4 rounded-2xl w-full">
+                <span class="text-2xl mr-4">📺</span>
+                <span class="font-bold flex-1 text-center">YOUTUBE - DENUNCIAS</span>
+            </a>
+
+            <a href="https://www.tiktok.com/@jotapehernandez" target="_blank" class="btn-link flex items-center p-4 rounded-2xl w-full">
+                <span class="text-2xl mr-4">🎵</span>
+                <span class="font-bold flex-1 text-center">TIKTOK VIRAL</span>
+            </a>
+
+            <a href="https://twitter.com/JotaPeHernandez" target="_blank" class="btn-link flex items-center p-4 rounded-2xl w-full">
+                <span class="text-2xl mr-4">🐦</span>
+                <span class="font-bold flex-1 text-center">X / TWITTER</span>
+            </a>
+        </div>
+
+        <div class="mt-10 w-full p-4 bg-zinc-900 rounded-3xl border border-zinc-800">
+            <h3 class="text-xs font-black text-gray-500 uppercase mb-3">Último Video / Podcast</h3>
+            <div class="aspect-video bg-black rounded-xl overflow-hidden">
+                <iframe class="w-full h-full" src="https://www.youtube.com/embed?listType=user_uploads&list=JotaPeHernandez" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <footer class="mt-auto pt-10 text-center">
+            <p class="text-[10px] text-gray-600 tracking-widest uppercase">
+                Software por <br>
+                <span class="text-gray-400 font-bold">VIBRAS POSITIVAS HM</span>
+            </p>
+        </footer>
+    </div>
+
+    <script>
+        // Registrar el Service Worker para la PWA
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('sw.js')
+                .then(() => console.log("PWA Lista"))
+                .catch(err => console.log("Error de registro", err));
+        }
+
+        // Script para forzar actualización de datos al entrar
+        window.addEventListener('focus', () => {
+            console.log("Actualizando contenido real...");
+            // Aquí se puede añadir lógica para refrescar feeds de redes sociales
+        });
+    </script>
+</body>
+</html>
