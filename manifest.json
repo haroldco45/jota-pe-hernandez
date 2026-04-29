@@ -1,16 +1,33 @@
 {
-  "name": "Jota Pe Hernández App",
+  "id": "/",
+  "name": "Jota Pe Hernández - Firme",
   "short_name": "JotaPe",
-  "start_url": "index.html",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#050505",
-  "theme_color": "#fbbf24",
+  "orientation": "portrait",
+  "background_color": "#000000",
+  "theme_color": "#eab308",
+  "description": "App oficial de gestión legislativa del Senador Jota Pe Hernández.",
+  "lang": "es",
   "icons": [
     {
-      "src": "https://unavatar.io/twitter/JotaPeHernandez",
+      "src": "https://unavatar.io/twitter/JotaPeHernandez?size=192",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://unavatar.io/twitter/JotaPeHernandez?size=512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://unavatar.io/twitter/JotaPeHernandez?size=512",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
-
