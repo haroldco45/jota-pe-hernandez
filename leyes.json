@@ -1,45 +1,16 @@
-<script>
-    // Función para cargar los datos dinámicos desde GitHub
-    async function cargarContenidoDinamico() {
-        try {
-            // Buscamos el JSON (asegúrate de que el nombre coincida)
-            const respuesta = await fetch('leyes.json');
-            const datos = await respuesta.json();
-            
-            // Lógica para elegir un proyecto basado en el día del mes
-            const diaDelMes = new Date().getDate();
-            const indice = diaDelMes % datos.proyectos.length;
-            const proyectoHoy = datos.proyectos[indice];
-
-            // Insertamos el contenido en el cajón de la app
-            const contenedor = document.getElementById('gestion-legislativa-container');
-            if (contenedor) {
-                contenedor.innerHTML = `
-                    <details class="group bg-[#121212] border border-zinc-800 rounded-2xl overflow-hidden">
-                        <summary class="flex items-center justify-between p-4 cursor-pointer">
-                            <div class="flex items-center gap-3">
-                                <span class="text-lg">${proyectoHoy.emoji}</span>
-                                <h4 class="font-black text-[11px] uppercase tracking-tight">${proyectoHoy.titulo}</h4>
-                            </div>
-                            <svg class="w-4 h-4 text-zinc-500 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-                        </summary>
-                        <div class="px-4 pb-4">
-                            <p class="text-[10px] text-zinc-400 leading-relaxed mb-3">${proyectoHoy.resumen}</p>
-                            <a href="${proyectoHoy.enlace}" target="_blank" class="block text-center bg-yellow-600 text-black text-[9px] font-black py-2 rounded-lg uppercase">Ver más detalles</a>
-                        </div>
-                    </details>
-                `;
-            }
-        } catch (error) {
-            console.error("Error cargando leyes:", error);
-        }
+{
+  "proyectos": [
+    {
+      "titulo": "Reducción de Salarios",
+      "emoji": "⚖️",
+      "resumen": "Iniciativa para reducir los ingresos de los congresistas y dar ejemplo de austeridad legislativa.",
+      "enlace": "https://www.senado.gov.co/"
+    },
+    {
+      "titulo": "Control Político",
+      "emoji": "🛡️",
+      "resumen": "Debates contundentes para vigilar el uso de los recursos públicos y denunciar la corrupción.",
+      "enlace": "https://www.youtube.com/@JotaPeHernandez"
     }
-
-    // Registrar Service Worker y cargar contenido
-    if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => {
-            navigator.serviceWorker.register('sw.js');
-            cargarContenidoDinamico();
-        });
-    }
-</script>
+  ]
+}
