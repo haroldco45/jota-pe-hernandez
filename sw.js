@@ -1,9 +1,10 @@
-const CACHE_NAME = 'jotape-firme-v1';
+const CACHE_NAME = 'jotape-firme-v2';
 const ASSETS = [
   '/',
   '/index.html',
   '/manifest.json',
-  'https://cdn.tailwindcss.com'
+  '/icon.svg',
+  '/icon-maskable.svg'
 ];
 
 // 1. Instalación: Guarda los archivos básicos en cache
@@ -30,17 +31,20 @@ self.addEventListener('activate', (event) => {
 // 3. Estrategia de Actualización Real (Stale-While-Revalidate)
 // Sirve el contenido rápido pero descarga la versión nueva para la próxima entrada
 self.addEventListener('fetch', (event) => {
+  if (event.request.method !== 'GET') return;
+
   event.respondWith(
     caches.match(event.request).then((cachedResponse) => {
       const fetchPromise = fetch(event.request).then((networkResponse) => {
-        // Actualizamos el cache con la nueva versión encontrada en la red
-        caches.open(CACHE_NAME).then((cache) => {
-          cache.put(event.request, networkResponse.clone());
-        });
+        if (networkResponse && networkResponse.ok && networkResponse.type === 'basic') {
+          const responseClone = networkResponse.clone();
+          caches.open(CACHE_NAME).then((cache) => {
+            cache.put(event.request, responseClone).catch(() => {});
+          });
+        }
         return networkResponse;
-      });
-      
-      // Devuelve la respuesta cacheada si existe, o espera a la red si no
+      }).catch(() => cachedResponse);
+
       return cachedResponse || fetchPromise;
     })
   );
