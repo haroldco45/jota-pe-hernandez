@@ -7,75 +7,80 @@
     <link rel="manifest" href="manifest.json">
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        body { 
-            background-color: #000000; 
-            color: white; 
-            -webkit-tap-highlight-color: transparent;
-        }
+        body { background-color: #000000; color: white; -webkit-tap-highlight-color: transparent; }
         .btn-link {
             background: #1a1a1a;
             border: 1px solid #2d2d2d;
             transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
         }
-        .btn-link:active {
-            transform: scale(0.97);
-            background: #252525;
-        }
-        /* Estilo para simular el borde dorado de la imagen */
-        .profile-border {
-            border: 3px solid #eab308;
-            padding: 2px;
-        }
+        .btn-link:active { transform: scale(0.97); background: #252525; }
+        .profile-border { border: 3px solid #eab308; padding: 2px; }
+        .card-gestion { background: linear-gradient(145deg, #121212, #080808); }
     </style>
 </head>
 <body class="font-sans antialiased">
 
-    <div class="max-w-md mx-auto px-6 py-12 flex flex-col items-center min-h-screen">
+    <div class="max-w-md mx-auto px-6 py-10 flex flex-col items-center min-h-screen">
         
-        <div class="text-center mb-10">
+        <div class="text-center mb-8">
             <div class="relative inline-block">
-                <img src="https://unavatar.io/twitter/JotaPeHernandez" alt="Jota Pe" class="w-32 h-32 rounded-full profile-border shadow-2xl mb-6 object-cover">
-                <span class="absolute bottom-8 right-1 bg-blue-600 text-white text-[10px] p-1 rounded-full border-2 border-black shadow-lg">
+                <img src="https://unavatar.io/twitter/JotaPeHernandez" alt="Jota Pe" class="w-32 h-32 rounded-full profile-border shadow-2xl mb-4 object-cover">
+                <span class="absolute bottom-6 right-1 bg-blue-600 text-white text-[10px] p-1 rounded-full border-2 border-black">
                     <svg class="w-3 h-3" fill="currentColor" viewBox="0 0 20 20"><path d="M16.707 5.293a1 1 0 010 1.414l-8 8a1 1 0 01-1.414 0l-4-4a1 1 0 011.414-1.414L8 12.586l7.293-7.293a1 1 0 011.414 0z"></path></svg>
                 </span>
             </div>
-            <h1 class="text-3xl font-black italic uppercase tracking-tight">JOTA PE HERNÁNDEZ</h1>
-            <p class="text-yellow-500 font-bold tracking-[0.2em] text-[10px] mt-2 uppercase">SENADOR DE LA REPÚBLICA</p>
+            <h1 class="text-2xl font-black italic uppercase tracking-tighter">JOTA PE HERNÁNDEZ</h1>
+            <p class="text-yellow-500 font-bold tracking-[0.2em] text-[10px] mt-1 uppercase">SENADOR DE LA REPÚBLICA</p>
         </div>
 
-        <div id="links-container" class="w-full space-y-4">
-            <a href="https://www.youtube.com/@JotaPeHernandez" target="_blank" class="btn-link flex items-center p-5 rounded-2xl w-full group">
-                <span class="text-2xl mr-4 group-hover:scale-110 transition-transform">📺</span>
-                <span class="font-black flex-1 text-center text-sm tracking-widest uppercase">YOUTUBE - DENUNCIAS</span>
+        <div id="links-container" class="w-full space-y-3 mb-8">
+            <a href="https://www.youtube.com/@JotaPeHernandez" target="_blank" class="btn-link flex items-center p-4 rounded-2xl w-full group">
+                <span class="text-xl mr-4">📺</span>
+                <span class="font-black flex-1 text-center text-xs tracking-widest uppercase">YOUTUBE - DENUNCIAS</span>
             </a>
-
-            <a href="https://www.tiktok.com/@jotapehernandez" target="_blank" class="btn-link flex items-center p-5 rounded-2xl w-full group">
-                <span class="text-2xl mr-4 group-hover:scale-110 transition-transform">🎵</span>
-                <span class="font-black flex-1 text-center text-sm tracking-widest uppercase">TIKTOK VIRAL</span>
+            <a href="https://www.tiktok.com/@jotapehernandez" target="_blank" class="btn-link flex items-center p-4 rounded-2xl w-full group">
+                <span class="text-xl mr-4">🎵</span>
+                <span class="font-black flex-1 text-center text-xs tracking-widest uppercase">TIKTOK VIRAL</span>
             </a>
-
-            <a href="https://twitter.com/JotaPeHernandez" target="_blank" class="btn-link flex items-center p-5 rounded-2xl w-full group">
-                <span class="text-2xl mr-4 group-hover:scale-110 transition-transform">🐦</span>
-                <span class="font-black flex-1 text-center text-sm tracking-widest uppercase">X / TWITTER</span>
+            <a href="https://twitter.com/JotaPeHernandez" target="_blank" class="btn-link flex items-center p-4 rounded-2xl w-full group">
+                <span class="text-xl mr-4">🐦</span>
+                <span class="font-black flex-1 text-center text-xs tracking-widest uppercase">X / TWITTER</span>
             </a>
         </div>
 
-        <div class="mt-12 w-full p-5 bg-[#121212] rounded-[2.5rem] border border-[#222]">
-            <h3 class="text-[10px] font-black text-zinc-500 uppercase mb-4 tracking-widest text-center">ÚLTIMO VIDEO / PODCAST</h3>
-            <div class="aspect-video bg-black rounded-3xl overflow-hidden shadow-inner">
-                <iframe 
-                    class="w-full h-full" 
-                    src="https://www.youtube.com/embed/sf06x3Wxa6U" 
-                    title="Jota Pe Video"
-                    frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                    allowfullscreen>
-                </iframe>
+        <div class="w-full mb-8">
+            <h3 class="text-[10px] font-black text-zinc-500 uppercase mb-4 tracking-[0.3em] text-center">Labor y Leyes</h3>
+            <div class="space-y-3">
+                <div class="card-gestion border border-zinc-800 p-4 rounded-2xl">
+                    <div class="flex items-center gap-3">
+                        <span class="text-lg">⚖️</span>
+                        <div>
+                            <h4 class="font-black text-[11px] uppercase tracking-tight">Reducción de Salarios</h4>
+                            <p class="text-[10px] text-zinc-500 leading-tight">Proyecto para bajar sueldos de congresistas.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="card-gestion border border-zinc-800 p-4 rounded-2xl">
+                    <div class="flex items-center gap-3">
+                        <span class="text-lg">🛡️</span>
+                        <div>
+                            <h4 class="font-black text-[11px] uppercase tracking-tight">Control Político</h4>
+                            <p class="text-[10px] text-zinc-500 leading-tight">Denuncias contundentes contra la corrupción.</p>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
 
-        <footer class="mt-auto pt-16 pb-6 text-center">
-            <p class="text-[9px] text-zinc-600 tracking-[0.3em] font-bold uppercase">
+        <div class="w-full p-4 bg-zinc-900 rounded-[2rem] border border-zinc-800 shadow-inner">
+            <h3 class="text-[9px] font-black text-zinc-500 uppercase mb-3 tracking-widest text-center">ÚLTIMO VIDEO / PODCAST</h3>
+            <div class="aspect-video bg-black rounded-2xl overflow-hidden">
+                <iframe class="w-full h-full" src="https://www.youtube.com/embed/sf06x3Wxa6U" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
+
+        <footer class="mt-auto pt-12 pb-4 text-center">
+            <p class="text-[9px] text-zinc-600 tracking-[0.3em] font-bold uppercase leading-relaxed">
                 SOFTWARE POR <br>
                 <span class="text-zinc-400 text-[11px]">VIBRAS POSITIVAS HM</span>
             </p>
@@ -83,21 +88,12 @@
     </div>
 
     <script>
-        // Registrar el Service Worker
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
-                navigator.serviceWorker.register('sw.js')
-                    .then(reg => console.log("PWA: Activa"))
-                    .catch(err => console.log("PWA: Error", err));
+                navigator.serviceWorker.register('sw.js').then(() => console.log("PWA: Lista"));
             });
         }
-
-        // Forzar actualización al volver a la app
-        document.addEventListener('visibilitychange', () => {
-            if (document.visibilityState === 'visible') {
-                console.log("Sincronizando contenido...");
-            }
-        });
+        window.addEventListener('focus', () => { console.log("Sincronizando labor legislativa..."); });
     </script>
 </body>
 </html>
