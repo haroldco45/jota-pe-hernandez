@@ -20,6 +20,12 @@
         details summary::-webkit-details-marker { display: none; }
         details[open] summary svg { transform: rotate(180deg); }
         details summary { list-style: none; outline: none; }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(-10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate-fadeIn { animation: fadeIn 0.3s ease-out forwards; }
     </style>
 </head>
 <body class="font-sans antialiased">
@@ -49,41 +55,9 @@
         </div>
 
         <div class="w-full mb-8">
-            <h3 class="text-[10px] font-black text-zinc-500 uppercase mb-4 tracking-[0.3em] text-center">Gestión Legislativa</h3>
-            <div class="space-y-3">
-                
-                <details class="group bg-[#121212] border border-zinc-800 rounded-2xl overflow-hidden">
-                    <summary class="flex items-center justify-between p-4 cursor-pointer">
-                        <div class="flex items-center gap-3">
-                            <span class="text-lg">⚖️</span>
-                            <h4 class="font-black text-[11px] uppercase tracking-tight">Reducción de Salarios</h4>
-                        </div>
-                        <svg class="w-4 h-4 text-zinc-500 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-                    </summary>
-                    <div class="px-4 pb-4 animate-fadeIn">
-                        <p class="text-[10px] text-zinc-400 leading-relaxed mb-3">
-                            Esta iniciativa busca reducir los ingresos de los congresistas para equilibrar la brecha social en Colombia. Jota Pe ha sido uno de los defensores más activos de este proyecto en la plenaria.
-                        </p>
-                        <a href="https://www.senado.gov.co/" target="_blank" class="block text-center bg-yellow-600 text-black text-[9px] font-black py-2 rounded-lg uppercase">Ver Proyecto en Gaceta</a>
-                    </div>
-                </details>
-
-                <details class="group bg-[#121212] border border-zinc-800 rounded-2xl overflow-hidden">
-                    <summary class="flex items-center justify-between p-4 cursor-pointer">
-                        <div class="flex items-center gap-3">
-                            <span class="text-lg">🛡️</span>
-                            <h4 class="font-black text-[11px] uppercase tracking-tight">Control Político</h4>
-                        </div>
-                        <svg class="w-4 h-4 text-zinc-500 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
-                    </summary>
-                    <div class="px-4 pb-4 animate-fadeIn">
-                        <p class="text-[10px] text-zinc-400 leading-relaxed mb-3">
-                            Liderazgo en debates sobre el manejo de recursos públicos, denunciando irregularidades en ministerios y entidades gubernamentales con pruebas documentales.
-                        </p>
-                        <a href="https://www.youtube.com/@JotaPeHernandez/videos" target="_blank" class="block text-center bg-yellow-600 text-black text-[9px] font-black py-2 rounded-lg uppercase">Ver Debates Reales</a>
-                    </div>
-                </details>
-
+            <h3 class="text-[10px] font-black text-zinc-500 uppercase mb-4 tracking-[0.3em] text-center">Gestión Legislativa Diaria</h3>
+            <div id="leyes-dinamicas-container" class="space-y-3">
+                <div class="text-center py-4 text-zinc-600 text-[10px] animate-pulse uppercase tracking-widest">Sincronizando labor...</div>
             </div>
         </div>
 
@@ -103,11 +77,54 @@
     </div>
 
     <script>
+        // Función para cargar contenido desde leyes.json
+        async function cargarLeyes() {
+            const container = document.getElementById('leyes-dinamicas-container');
+            try {
+                const response = await fetch('leyes.json');
+                const data = await response.json();
+                
+                // Rotación basada en el día del mes
+                const hoy = new Date().getDate();
+                const indice = hoy % data.proyectos.length;
+                const p = data.proyectos[indice];
+
+                container.innerHTML = `
+                    <details class="group bg-[#121212] border border-zinc-800 rounded-2xl overflow-hidden shadow-lg">
+                        <summary class="flex items-center justify-between p-4 cursor-pointer outline-none">
+                            <div class="flex items-center gap-3">
+                                <span class="text-xl">${p.emoji}</span>
+                                <h4 class="font-black text-[11px] uppercase tracking-tight">${p.titulo}</h4>
+                            </div>
+                            <svg class="w-4 h-4 text-zinc-500 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </summary>
+                        <div class="px-4 pb-4 animate-fadeIn">
+                            <p class="text-[10px] text-zinc-400 leading-relaxed mb-4">${p.resumen}</p>
+                            <a href="${p.enlace}" target="_blank" class="block text-center bg-yellow-600 text-black text-[9px] font-black py-2.5 rounded-xl uppercase active:scale-95 transition-transform">
+                                Ver Gestión Completa
+                            </a>
+                        </div>
+                    </details>
+                `;
+            } catch (error) {
+                container.innerHTML = `<p class="text-[10px] text-red-900 text-center uppercase font-bold">Error al sincronizar datos</p>`;
+            }
+        }
+
+        // Service Worker y Carga Inicial
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
                 navigator.serviceWorker.register('sw.js');
+                cargarLeyes();
             });
         }
+
+        // Re-sincronizar si el usuario vuelve a la pestaña (después de medianoche)
+        document.addEventListener('visibilitychange', () => {
+            if (document.visibilityState === 'visible') cargarLeyes();
+        });
     </script>
 </body>
 </html>
