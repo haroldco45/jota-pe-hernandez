@@ -1,53 +1,39 @@
-const CACHE_NAME = 'jotape-firme-v1';
-const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  'https://cdn.tailwindcss.com'
-];
+// Service worker — Jota Pe Hernández · Vibras Positivas HM
+const VERSION = 'jotape-v2-2026-10-23';
+const BASE = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png'];
 
-// 1. Instalación: Guarda los archivos básicos en cache
-self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => {
-      return cache.addAll(ASSETS);
-    })
-  );
-  self.skipWaiting();
+self.addEventListener('install', e => {
+  e.waitUntil(caches.open(VERSION).then(c => c.addAll(BASE)).then(() => self.skipWaiting()));
 });
 
-// 2. Activación: Limpia caches antiguos
-self.addEventListener('activate', (event) => {
-  event.waitUntil(
-    caches.keys().then((keys) => {
-      return Promise.all(
-        keys.filter((key) => key !== CACHE_NAME).map((key) => caches.delete(key))
-      );
-    })
+self.addEventListener('activate', e => {
+  e.waitUntil(
+    caches.keys()
+      .then(ks => Promise.all(ks.filter(k => k !== VERSION).map(k => caches.delete(k))))
+      .then(() => self.clients.claim())
   );
 });
 
-// 3. Estrategia de Actualización Real (Stale-While-Revalidate)
-// Sirve el contenido rápido pero descarga la versión nueva para la próxima entrada
-self.addEventListener('fetch', (event) => {
-  event.respondWith(
-    caches.match(event.request).then((cachedResponse) => {
-      const fetchPromise = fetch(event.request).then((networkResponse) => {
-        // Actualizamos el cache con la nueva versión encontrada en la red
-        caches.open(CACHE_NAME).then((cache) => {
-          cache.put(event.request, networkResponse.clone());
-        });
-        return networkResponse;
-      });
-      
-      // Devuelve la respuesta cacheada si existe, o espera a la red si no
-      return cachedResponse || fetchPromise;
-    })
+self.addEventListener('fetch', e => {
+  const req = e.request;
+  if (req.method !== 'GET') return;
+  const url = new URL(req.url);
+  // Lo externo (proxies, YouTube, fuentes) va directo a la red
+  if (url.origin !== location.origin) return;
+
+  // Red primero: así la página, noticias.json y leyes.json siempre salen frescos;
+  // si no hay internet, se usa la última copia guardada.
+  e.respondWith(
+    fetch(req)
+      .then(res => {
+        if (res.ok) {
+          const copia = res.clone();
+          const clave = url.pathname.endsWith('.json') ? url.origin + url.pathname : req;
+          caches.open(VERSION).then(c => c.put(clave, copia));
+        }
+        return res;
+      })
+      .catch(() => caches.match(url.pathname.endsWith('.json') ? url.origin + url.pathname : req)
+        .then(r => r || caches.match('index.html')))
   );
 });
-
-/* Créditos de Software: VIBRAS POSITIVAS HM 
-   Este código permite que la PWA de Jota Pe Hernández se mantenga 
-   siempre actualizada con los cambios realizados en GitHub/Netlify.
-*/
-

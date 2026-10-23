@@ -1,0 +1,43 @@
+{
+  "actualizado": "2026-10-23T12:10:00.000Z",
+  "canal": null,
+  "noticias": [
+    {
+      "titulo": "25 senadores piden a la Fiscalía investigar a Levy Rincón por ataques a la primera dama",
+      "enlace": "https://www.colombia.com/actualidad/politica/llevan-a-la-fiscalia-a-levy-rincon-por-ana-lucia-pineda-608389",
+      "fuente": "Colombia.com",
+      "fecha": "2026-10-22T20:00:00.000Z"
+    },
+    {
+      "titulo": "Piden investigación a Levy Rincón por mensajes contra la primera dama; Jota Pe Hernández, entre los promotores",
+      "enlace": "https://pulzo.com/nacion/piden-investigacion-levy-rincon-por-acusar-primera-dama-ana-lucia-pineda-PP5337952",
+      "fuente": "Pulzo",
+      "fecha": "2026-10-22T19:00:00.000Z"
+    },
+    {
+      "titulo": "Salida de Rodrigo Lara del Ministerio del Interior: Jota Pe Hernández se pronuncia",
+      "enlace": "https://eltiempo.com/politica/gobierno/salida-de-rodrigo-lara-y-nombramiento-de-alejandro-ordonez-en-el-ministerio-del-interior-ultimas-noticias-movimientos-y-reacciones-3595383",
+      "fuente": "El Tiempo",
+      "fecha": "2026-10-22T15:23:00.000Z"
+    },
+    {
+      "titulo": "Pelea en el Congreso: Jota Pe Hernández sugiere denunciar o recusar a Isabel Zuleta en el debate de la ley de sometimiento",
+      "enlace": "https://www.cablenoticias.com/noticias/pelea-congreso-jota-pe-hernandez-isabel-zuleta-ley-sometimiento",
+      "fuente": "Cablenoticias",
+      "fecha": "2026-10-21T18:37:10.000Z"
+    },
+    {
+      "titulo": "Iván Cepeda y Jota Pe Hernández chocaron en el Congreso tras las acusaciones de Mancuso contra el Gobierno Petro",
+      "enlace": "https://www.infobae.com/colombia/2026/10/20/ivan-cepeda-y-jota-pe-hernandez-chocaron-en-el-congreso-tras-las-acusaciones-de-mancuso-contra-el-gobierno-petro-se-esta-volteando-la-torta/",
+      "fuente": "Infobae",
+      "fecha": "2026-10-20T00:39:24.000Z"
+    },
+    {
+      "titulo": "Duro enfrentamiento entre Cepeda y JP Hernández tras declaraciones de Mancuso",
+      "enlace": "https://www.semana.com/politica/articulo/duro-enfrentamiento-entre-cepeda-y-jp-hernandez-tras-declaraciones-de-mancuso-diciendo-que-el-gobierno-petro-le-pidio-acusar-a-uribe/202645/",
+      "fuente": "Semana",
+      "fecha": "2026-10-19T23:04:00.000Z"
+    }
+  ],
+  "videos": []
+}
