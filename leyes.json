@@ -1,15 +1,54 @@
 {
+  "verificado": "2026-10-23",
   "proyectos": [
     {
-      "titulo": "Reducción de Salarios",
-      "emoji": "⚖️",
-      "resumen": "Iniciativa para reducir los ingresos de los congresistas y dar ejemplo de austeridad legislativa.",
-      "enlace": "https://www.senado.gov.co/"
+      "titulo": "Baños abiertos para personas con discapacidad",
+      "emoji": "♿",
+      "estado": "Ley de la República",
+      "tipo": "ley",
+      "numero": "Ley 2633 de 2026 · PL 64/2024 Senado – 465/2024 Cámara",
+      "rol": "Autor",
+      "resumen": "Los establecimientos abiertos al público deben dejar usar sus baños a personas con discapacidad o movilidad reducida, niños, mujeres embarazadas, adultos mayores y sus cuidadores, aunque no sean clientes. Pueden cobrar, pero sin discriminar. Sancionada el 14 de septiembre de 2026.",
+      "enlace": "https://www.dmsjuridica.com/buscador_20179478954/legislacion/leyes/2026/09/29/ley-2633-de-2026/"
     },
     {
-      "titulo": "Control Político",
+      "titulo": "Reducción del salario de los congresistas",
+      "emoji": "⚖️",
+      "estado": "Archivado",
+      "tipo": "archivado",
+      "numero": "PL 97/2022 Senado – 194/2023 Cámara",
+      "rol": "Autor (con unos 80 coautores)",
+      "resumen": "Unificaba en un solo régimen todo lo que reciben los congresistas y altos funcionarios para bajar sus ingresos. Lo radicó el 3 de agosto de 2022 y el Senado lo aprobó en agosto de 2023, pero se archivó en la Cámara el 4 de junio de 2024.",
+      "enlace": "https://congresovisible.uniandes.edu.co/proyectos-de-ley/porganica-por-medio-de-la-cual-se-modifica-el-regimen-salarial-de-los-congresistas-de-la-republica-de-los-altos-funcionarios-y-se-modifica-la-ley-4-de-1992-salario-de-los-congresistas/12507"
+    },
+    {
+      "titulo": "Letra \"A\" para conductores novatos",
+      "emoji": "🚗",
+      "estado": "En trámite (último reporte: sep. 2025)",
+      "tipo": "tramite",
+      "numero": "PL 066 de 2024 Senado",
+      "rol": "Autor",
+      "resumen": "Quien saque licencia por primera vez llevaría una letra \"A\" visible en el carro o la moto durante un año. No portarla sería infracción de tránsito con multa de 4 salarios mínimos diarios. A septiembre de 2025 había pasado el Senado y esperaba debate en la Cámara.",
+      "enlace": "https://www.bluradio.com/motor/ley-obligaria-a-cumplir-nueva-exigencia-a-todos-los-conductores-novatos-y-portar-esta-senal-so35"
+    },
+    {
+      "titulo": "Un bozal que salva vidas",
+      "emoji": "🐕",
+      "estado": "Radicado (ago. 2023)",
+      "tipo": "tramite",
+      "numero": "Proyecto de ley · Senado",
+      "rol": "Autor",
+      "resumen": "Busca frenar ataques de perros potencialmente peligrosos en el espacio público: los dueños responderían por todos los daños y los perros sin bozal en la calle podrían ser retenidos.",
+      "enlace": "https://www.semana.com/semana-tv/vicky-en-semana/articulo/jota-pe-hernandez-revela-en-que-consiste-el-proyecto-un-bozal-que-salva-vidas-que-perros-se-veran-afectados/202309/"
+    },
+    {
+      "titulo": "Control político",
       "emoji": "🛡️",
-      "resumen": "Debates contundentes para vigilar el uso de los recursos públicos y denunciar la corrupción.",
+      "estado": "Permanente",
+      "tipo": "control",
+      "numero": "Comisión Primera del Senado",
+      "rol": "Senador",
+      "resumen": "Debates para vigilar el uso de los recursos públicos y denunciar la corrupción. Los videos de cada debate están en su canal de YouTube.",
       "enlace": "https://www.youtube.com/@JotaPeHernandez"
     }
   ]

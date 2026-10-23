@@ -1,5 +1,5 @@
 // Service worker — Jota Pe Hernández · Vibras Positivas HM
-const VERSION = 'jotape-v2-2026-10-23';
+const VERSION = 'jotape-v3-2026-10-23';
 const BASE = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', e => {
