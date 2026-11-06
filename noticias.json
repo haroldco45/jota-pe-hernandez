@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-06T01:00:29.789Z",
+  "actualizado": "2026-11-06T08:08:46.934Z",
   "canal": "UCn5ZEYfPJF_D84XFS0u434w",
   "noticias": [
     {
@@ -375,15 +375,15 @@
       "fecha": "2026-10-22T15:23:00.000Z"
     },
     {
-      "titulo": "25 senadores piden a la Fiscalía investigar a Levy Rincón por ataques a la primera dama",
-      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbURXSndnalFGVERHRzJJeW1kZjBVdTlncFpISnhLVGVQUmdwN3htamV3b2l4d3B3bU00ckdyUXBOMUhiYUsxbVFDSTZXS0d0ejkzb2Fjd0RIaElKc1VwazBiaGFXOGNWUFV6N3M2aEp2U1BjWGRtQnV1Q3JkMHBodUVfVkpjQzFfUjh5a0prQlh1dFJ6cjd1bDB3Q1ppRklQbnA0MjNJRGpkMTg?oc=5",
-      "fuente": "Colombia.com",
-      "fecha": "2026-10-22T07:00:00.000Z"
-    },
-    {
       "titulo": "“Menos confrontación y más diálogo”: presidente del Congreso reacciona a la salida del MinInterior Rodrigo Lara",
       "enlace": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNd1BHemNObXhianRtNE5GenBySFd1c0VrZjdxMkZQdEIxeWI1M0poNk43eTlrYTlxblJqZFhFajRxX0lSejVBT3dGekhMNmtiV2NrNjB1Q0ZtTDhxQ1piV09ZZGt1czJfUld3MjJ3MjNJaTVsbVBXem14RzEyYl9uajNXNEtLR21YQkZpZm1jM0dOeEk3dXlBWXcycDBPZUpWTEJGRnJwNTlIZ2RhRmlyWV93YzB4bXFQZVpWVHZEZWZhWnAyRG1SN0lBajBqVWxj?oc=5",
       "fuente": "Focus Noticias",
+      "fecha": "2026-10-22T07:00:00.000Z"
+    },
+    {
+      "titulo": "25 senadores piden a la Fiscalía investigar a Levy Rincón por ataques a la primera dama",
+      "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbURXSndnalFGVERHRzJJeW1kZjBVdTlncFpISnhLVGVQUmdwN3htamV3b2l4d3B3bU00ckdyUXBOMUhiYUsxbVFDSTZXS0d0ejkzb2Fjd0RIaElKc1VwazBiaGFXOGNWUFV6N3M2aEp2U1BjWGRtQnV1Q3JkMHBodUVfVkpjQzFfUjh5a0prQlh1dFJ6cjd1bDB3Q1ppRklQbnA0MjNJRGpkMTg?oc=5",
+      "fuente": "Colombia.com",
       "fecha": "2026-10-22T07:00:00.000Z"
     },
     {
@@ -485,6 +485,11 @@
   ],
   "videos": [
     {
+      "id": "4_5izRRzM24",
+      "titulo": "🛑EN VIVO!! PETRO EN PR0BLEMAS - SUS DENUNClANTES REVELAN PRUEBAS!!",
+      "fecha": "2026-11-06T02:31:49+00:00"
+    },
+    {
       "id": "8E2u7YaNKFE",
       "titulo": "🔴URGENTE!! VIDEO DE PETRO Y DEISY FUE REVELADO!!",
       "fecha": "2026-11-05T02:18:23+00:00"
@@ -518,11 +523,6 @@
       "id": "PnTqmIWIgMw",
       "titulo": "🔴URGENTE!! ELIMINAREMOS LA PAZ TOTAL DE PETRO - VAMOS A DERROTAR A TODOS LOS BANDlD0S!!",
       "fecha": "2026-10-21T23:41:07+00:00"
-    },
-    {
-      "id": "w7vfq9TQvig",
-      "titulo": "🔴EL HEREDERO ESTÁ ASUSTADO!! LE DIMOS LA BIENVENIDA A LA PATRIA MILAGRO!!",
-      "fecha": "2026-10-20T00:39:14+00:00"
     }
   ]
 }
