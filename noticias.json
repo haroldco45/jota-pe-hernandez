@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-08T20:03:38.130Z",
+  "actualizado": "2026-11-08T23:51:31.785Z",
   "canal": "UCn5ZEYfPJF_D84XFS0u434w",
   "noticias": [
     {
@@ -49,12 +49,6 @@
       "enlace": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUGp1aXEtcm5NOVBiTjhReWVPY0syMmdBRlBnZ1NpWkNOMURqZmNRT3J1U0V5QTJZUV9TYV9ySzV2bjRuVWFUVUUwWDdrTG1DVnluWjJWUmIwSF9rNk5OaVVZUXBiLWxsMzFmUmpCVWFMSXlQdzJaZGx4ZU5odE9sLXkzdmpyT1pLUEhyRy1NY2xfT2ZLY2t4Y0ZKUTJRMjNVem5sSXdyOU9mRTdNdG9KUnVwR3d6NVViV1V6VVFnOURxSmxLMFNIVHJVSEdoeEtIX2lrdjRWNFhhQlpvTlHSAd4BQVVfeXFMTlBqdWlxLXJuTTlQYk44UXllT2NLMjJnQUZQZ2dTaVpDTjFEamZjUU9ydVNFeUEyWVFfU2Ffcks1dm40blVhVFVFMFg3a0xtQ1Z5bloyVlJiMEhfazZOTmlVWVFwYi1sbDMxZlJqQlVhTEl5UHcyWmRseGVOaHRPbC15M3Zqck9aS1BIckctTWNsX09mS2NreGNGSlEyUTIzVXpubEl3cjlPZkU3TXRvSlJ1cEd3ejVVYldVelVRZzlEcUpsSzBTSFRyVUhHaHhLSF9pa3Y0VjRYYUJab05R?oc=5",
       "fuente": "Revista Semana",
       "fecha": "2026-10-29T16:40:40.000Z"
-    },
-    {
-      "titulo": "Matador responde a los ataques del presidente y aviva la polémica en redes sociales",
-      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmpYNm9vUkxUMEhkSll1a05BTTFaYnJGdDNncDRVdXFyYk1qczFZbmlPcHppb2d5ODBZeVVMZDlhTnozbml5dk5lNGpqM0lZVmtlM0RoLU5SYVRWQmNfSnJmX1V0YngyU2txV0NCb2h3c2FoRWtZcXJ5eHdIQUtPcHN0ZTJnWkl0Q1JFdXI5bmZZRHFFcEtaRjkxZ2YxMFFfMXJHZDd3Mjlib0lWc3hIOS02bE9lbHM?oc=5",
-      "fuente": "HSB Noticias",
-      "fecha": "2026-10-29T14:37:01.000Z"
     },
     {
       "titulo": "El fuerte agarrón entre JP Hernández e Isabel Zuleta por Matador en el Congreso: “Defiende a un hombre que le pega a su esposa”",
@@ -126,6 +120,12 @@
       "titulo": "El 'show' de 'Matador' en el Congreso: este fue el choque que generó su presencia",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb05uLVJIUnRtWE9SN2VUWjhxUlZldVJjaEhiUVFxT2xFM2Z6dmZRbW9XYU1YbEhZRkpiNi1mUzJtVF9MMTBFRlg2LUZGejA5OHUwQXZMLVVFWWFTZTUxbHQzY3hfVmEzb2pBREpoU2QtSk4tNFFXTW16WWNEWWNRUFRJcHZEbzg2VUNWbDBGUVF2dU5IZ3c5TnpVX2JoWFVhcFZDNmtjTmE2cFhSalBkSVpKclBPUQ?oc=5",
       "fuente": "Minuto60",
+      "fecha": "2026-10-29T07:00:00.000Z"
+    },
+    {
+      "titulo": "Matador responde a los ataques del presidente y aviva la polémica en redes sociales",
+      "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcmpYNm9vUkxUMEhkSll1a05BTTFaYnJGdDNncDRVdXFyYk1qczFZbmlPcHppb2d5ODBZeVVMZDlhTnozbml5dk5lNGpqM0lZVmtlM0RoLU5SYVRWQmNfSnJmX1V0YngyU2txV0NCb2h3c2FoRWtZcXJ5eHdIQUtPcHN0ZTJnWkl0Q1JFdXI5bmZZRHFFcEtaRjkxZ2YxMFFfMXJHZDd3Mjlib0lWc3hIOS02bE9lbHM?oc=5",
+      "fuente": "HSB Noticias",
       "fecha": "2026-10-29T07:00:00.000Z"
     },
     {
@@ -201,15 +201,15 @@
       "fecha": "2026-10-24T07:00:00.000Z"
     },
     {
-      "titulo": "Ana Lucía Pineda denuncia a Levy Rincón ante la Fiscalía, confirmó Jota Pe Hernández",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaTVwVGJFV0NoTldrRTZNcldKcWxwRFFLWnBwaUFPSVQ5LUE0U1B4UkpHcHBzdGh2MGZVZ3dUWTNlTFRwODkxM0RwNF9ENC05U1NHU3lhV0U5ODlFd2huZTl6OUdSTk1qZWxrNWZoTFlCeWtRd1M0RUJobzNSWjFTMV95blA5SjJSLTdOQXZPSWJrQ2pJbTdoSGJveHlyLVhSMGFvQlNNTU85b1NaOU94YUp5ZjNsRWJtX0hCMFVVVzF5bGpKNDBF0gHMAUFVX3lxTE1xNndhb0hMaHhLOWUxcEcxQ2lROWZKR3R0YnFJWnl3dWwzU2dCWDNoOEkzcGI0a3J3MXhTNWpwX0FoTDJzaFBJbEVUQTVIZWExNWsxdkRySWxHYVdLamJ5Tk1hMXM4RDNIOG9ObVdUY3BfY2gyV0J0aVZEeHkxdE1ZOXJ3aUJBY1lBSXpzLTJ6VG1ibDk0eGRUMjZXWmhwVGpKY2h1bGFFazJZMnFIanllVEh1NkNJWi1yM2hGc3Y0YklLTEtvRXh5c0JIOA?oc=5",
-      "fuente": "El País",
-      "fecha": "2026-10-24T07:00:00.000Z"
-    },
-    {
       "titulo": "Jota Pe Hernández revela que la primera dama demandó a Levy Rincón",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZjlzeklaSXBqZFJCWGI0eUdGM0Vvd1ItUmk4U2dIZlVlazJSOFhZS1M2UmZKbF9xQWo4UGhmajJZSG5uS05LS2hoTnRFdnVGd2VvOGJXV3gtTU13eE1maDV3ODNGWngwZkhUeGV3b1VKSXlQV2hpR3g5X18wZGRfQTcwZ1JibzZKVFpyLUN1QkpxaVEzRXlMa3hBSkF4RTU5RFVPWGNwN0tBY0pVTVh5a0tLbHUyZw?oc=5",
       "fuente": "Infobae",
+      "fecha": "2026-10-24T07:00:00.000Z"
+    },
+    {
+      "titulo": "Ana Lucía Pineda denuncia a Levy Rincón ante la Fiscalía, confirmó Jota Pe Hernández",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaTVwVGJFV0NoTldrRTZNcldKcWxwRFFLWnBwaUFPSVQ5LUE0U1B4UkpHcHBzdGh2MGZVZ3dUWTNlTFRwODkxM0RwNF9ENC05U1NHU3lhV0U5ODlFd2huZTl6OUdSTk1qZWxrNWZoTFlCeWtRd1M0RUJobzNSWjFTMV95blA5SjJSLTdOQXZPSWJrQ2pJbTdoSGJveHlyLVhSMGFvQlNNTU85b1NaOU94YUp5ZjNsRWJtX0hCMFVVVzF5bGpKNDBF0gHMAUFVX3lxTE1xNndhb0hMaHhLOWUxcEcxQ2lROWZKR3R0YnFJWnl3dWwzU2dCWDNoOEkzcGI0a3J3MXhTNWpwX0FoTDJzaFBJbEVUQTVIZWExNWsxdkRySWxHYVdLamJ5Tk1hMXM4RDNIOG9ObVdUY3BfY2gyV0J0aVZEeHkxdE1ZOXJ3aUJBY1lBSXpzLTJ6VG1ibDk0eGRUMjZXWmhwVGpKY2h1bGFFazJZMnFIanllVEh1NkNJWi1yM2hGc3Y0YklLTEtvRXh5c0JIOA?oc=5",
+      "fuente": "El País",
       "fecha": "2026-10-24T07:00:00.000Z"
     },
     {
@@ -285,15 +285,15 @@
       "fecha": "2026-10-23T07:00:00.000Z"
     },
     {
-      "titulo": "“Lo que está conociendo el país no se lo hubiese imaginado ni Gustavo Bolívar escribiendo una novela”",
-      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd0dfOWpYZURjdW1ORFZsMm5XdzN0Vy03OVdaTzRlUXhQTkJJNVZsdXUxd0NoTGlRS0c0ZF9rZTdjamtkVlBtSVU5azE5aHZlZDJqUUdkLWhYc25wR1JHMXhRQkRsdVVSc0Y2Zk1hTEVKTTRXZkppeHZhdlpoeXc4RUhORlNBTzNOVm9EanA4VVZ2TFROTUtZc3VXWkxFREhXcy1mU0gyYVhFTGRwNDlzeHNfaG1scHNrdTQ2X2xzZW5TTnlzTUFIYkJ1REZzTVBMaTRfY0xjemR0bzE1X0RhOW9tYU0xckNsalZncF96SVlBT3EwbHBEOGR30gH_AUFVX3lxTE9FU1hUMnEwLVg5TDAzb29RbWpmQWNBNjJDdGplTVcyd2JBN0p5b0dtbDVDd2hSeElTbHN1cUttNm1UblJxTEYtWGY1OUxjUHptUmlwRk16RTBWU2c2UHBVZXYtWDVBNmpqZkNjQmlwemxkcWZJdTYycjRWMUIyb2IyaHZiUnF1S0ZiWFMycDA5aVgyYlcxZXI0cHJWOU1WQjZ5WXpPcEUzdkV1Uzh2anM3VnRCTV90NlRFMHNnSGozXzlMUlI2SDZnbnV1OHNLMGZxUEZEZlRFZ2hUUW12YVhOLVExWXoxaVM3NDZ2R1BKMFBtNnJaM0x1WEpQdm1FMA?oc=5",
-      "fuente": "Revista Semana",
-      "fecha": "2026-10-23T07:00:00.000Z"
-    },
-    {
       "titulo": "Jota Pe Hernández salió en defensa de la primera dama y denunció a Levy Rincón por fuertes ‘madrazos’ y “calumnia”",
       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDU5Z3VBME54NG5CSmlZWDRwaHJDOGZUdk93dm5RYi1pNXR6ckxKZVRWalpTcERKTjBXZ3hkN0ppdTBOTEJkWTNLcWZuNENuMjFiV3B2U01WX3VTQTN0ZFhfRHFhcGpyRDhOclJnbzVFQTBjdUZtb0VBOGJteTlHOXpsVUNWOW04QnpyQzdEbG1EZEJLTkNNNks3Q3V1YzBOZDBVVDgwd1JHV0xmZ0ZTb29PTjBfLTFHdy1BWFN2MER4ci16ck9qME9CNlI1eG03VWZSSThMLWtYY1FLWWZvMTZHNlJZUnBoUGhEc0xR?oc=5",
       "fuente": "Publimetro Colombia",
+      "fecha": "2026-10-23T07:00:00.000Z"
+    },
+    {
+      "titulo": "“Lo que está conociendo el país no se lo hubiese imaginado ni Gustavo Bolívar escribiendo una novela”",
+      "enlace": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOd0dfOWpYZURjdW1ORFZsMm5XdzN0Vy03OVdaTzRlUXhQTkJJNVZsdXUxd0NoTGlRS0c0ZF9rZTdjamtkVlBtSVU5azE5aHZlZDJqUUdkLWhYc25wR1JHMXhRQkRsdVVSc0Y2Zk1hTEVKTTRXZkppeHZhdlpoeXc4RUhORlNBTzNOVm9EanA4VVZ2TFROTUtZc3VXWkxFREhXcy1mU0gyYVhFTGRwNDlzeHNfaG1scHNrdTQ2X2xzZW5TTnlzTUFIYkJ1REZzTVBMaTRfY0xjemR0bzE1X0RhOW9tYU0xckNsalZncF96SVlBT3EwbHBEOGR30gH_AUFVX3lxTE9FU1hUMnEwLVg5TDAzb29RbWpmQWNBNjJDdGplTVcyd2JBN0p5b0dtbDVDd2hSeElTbHN1cUttNm1UblJxTEYtWGY1OUxjUHptUmlwRk16RTBWU2c2UHBVZXYtWDVBNmpqZkNjQmlwemxkcWZJdTYycjRWMUIyb2IyaHZiUnF1S0ZiWFMycDA5aVgyYlcxZXI0cHJWOU1WQjZ5WXpPcEUzdkV1Uzh2anM3VnRCTV90NlRFMHNnSGozXzlMUlI2SDZnbnV1OHNLMGZxUEZEZlRFZ2hUUW12YVhOLVExWXoxaVM3NDZ2R1BKMFBtNnJaM0x1WEpQdm1FMA?oc=5",
+      "fuente": "Revista Semana",
       "fecha": "2026-10-23T07:00:00.000Z"
     },
     {
@@ -312,6 +312,12 @@
       "titulo": "Denuncian en la Fiscalía al activista Levy Rincón por ataques contra la primera dama: “No más violencia contra la mujer”",
       "enlace": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVEZ1ZlZFZndqczI0NGNZRnRPSllHMmlpSGpuZER0LXdrRDlrT21NTTFRZ21HU3h4WGFWdHpVdlU1amNjTFU1MlBXNEo0UF9vU3FYc29vd1k3UXhZdS1MdkZ3aXZaU091V1VjMkI4VkIzTEIxY29nbjd4Nkc3NTZLRkRVZzFCcGtZWDRVWF9GRDFzRGdwb1BsNzA3NHdGejEyMURVNDZpM2VTQlcwSXJwakFJdllQbVNyVDgxY1pFN2tnMFlRS0dUUjEtN3FJcE53Q2wyWFBTaDZQSkFiSTlNZndzcUZ1M20tSzRuV3ExaFlub3VfQlE?oc=5",
       "fuente": "ELHERALDO.CO",
+      "fecha": "2026-10-23T07:00:00.000Z"
+    },
+    {
+      "titulo": "Senadores denunciaron ante la Fiscalía al influencer Levy Rincón por presuntos insultos y ataques contra la primera dama | El Colombiano",
+      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOGE1anFpcmpIUE9QV294UlhXTmtWdlVhZEkzSzdQS0dLcHM4Tk5CeS1jQnRLclBxT1NXWXFYUW1UZkh3ajJ5MUI0Y3E5Q3B3Z1lXYmxrVzlXWmRLbHB4bFpfVmFHQXNyalU0SXRmbkphNFIwWFhQczQ0VDFRNk1iTkFPSDhRcmxaWW4tUWhDRGdfbUZadm5JZVN6THRidXFfREkzWDBVckItZ2xqTmtBZ2dQNEM4a0R3QjBOV0JfOVpxRTRSd1JwTGdSRDJZNEVwNGlPdjFkS1RkUFNidVpvTlBmNmphektJYm9Ya2FGWTFEOERaTGhV0gH8AUFVX3lxTE1mbEYwSDdRX083Qy13NmlaZ0M2bkRXc2hkUjF4VUpGN0RLUl9JLVNDTXhmc2VtdWFQTmwwUXVXX3JLZ0NBeTBkU0tKOUlOT0ZzZTFTQlBHUGQwc0xoNF81cHFOaWZYWTNfczhPSW5uTncyQW8zVjdtbzVFcWo4eURpRFJLdkR5djUycFZST01DMFdxMmNZem5wdUZOcmZuLXdRUmZtNG9TdWF6My1KTF9RZk1ad1F3OUdYeVlBLVVZZDZYb01ySV9jWVhVNlI5SlRXQUt1eXlWRDJ3N0ViNmtMU3otT2p4dEpzeE1iTnFwdGlhd2lFYXNERnRiMg?oc=5",
+      "fuente": "El Colombiano",
       "fecha": "2026-10-23T07:00:00.000Z"
     },
     {
@@ -336,12 +342,6 @@
       "titulo": "Congresistas piden a la Fiscalía investigar al youtuber Levy Rincón por insultos a la primera dama",
       "enlace": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYU5ldHhLUlByUlM0TXRNdVZWak11YmRnWjdXRjZKNzZaUG1oRDZOd0w0Z0FyRk45em81VlY2WHYyRnFNZnIteno2QjlocGpBR1NlNUZTNlNfRjBfZG8yYkFfVENQd2JKQ3JuY05oLTVsYnFaVnotWUpOMmxEVl8xSjc5UWptNWtSSk1sb1VHQWRLZG9HODNNd3Y5dVl4UFk2eTRBM0lLYmJlSUFKUTVMUGZ6QmFfb2pFVk9tczlxd0h2TmZDOWVlSVM4QnZYb2hRZXc?oc=5",
       "fuente": "Agencia de Periodismo Investigativo",
-      "fecha": "2026-10-23T07:00:00.000Z"
-    },
-    {
-      "titulo": "Senadores denunciaron ante la Fiscalía al influencer Levy Rincón por presuntos insultos y ataques contra la primera dama | El Colombiano",
-      "enlace": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOGE1anFpcmpIUE9QV294UlhXTmtWdlVhZEkzSzdQS0dLcHM4Tk5CeS1jQnRLclBxT1NXWXFYUW1UZkh3ajJ5MUI0Y3E5Q3B3Z1lXYmxrVzlXWmRLbHB4bFpfVmFHQXNyalU0SXRmbkphNFIwWFhQczQ0VDFRNk1iTkFPSDhRcmxaWW4tUWhDRGdfbUZadm5JZVN6THRidXFfREkzWDBVckItZ2xqTmtBZ2dQNEM4a0R3QjBOV0JfOVpxRTRSd1JwTGdSRDJZNEVwNGlPdjFkS1RkUFNidVpvTlBmNmphektJYm9Ya2FGWTFEOERaTGhV0gH8AUFVX3lxTE1mbEYwSDdRX083Qy13NmlaZ0M2bkRXc2hkUjF4VUpGN0RLUl9JLVNDTXhmc2VtdWFQTmwwUXVXX3JLZ0NBeTBkU0tKOUlOT0ZzZTFTQlBHUGQwc0xoNF81cHFOaWZYWTNfczhPSW5uTncyQW8zVjdtbzVFcWo4eURpRFJLdkR5djUycFZST01DMFdxMmNZem5wdUZOcmZuLXdRUmZtNG9TdWF6My1KTF9RZk1ad1F3OUdYeVlBLVVZZDZYb01ySV9jWVhVNlI5SlRXQUt1eXlWRDJ3N0ViNmtMU3otT2p4dEpzeE1iTnFwdGlhd2lFYXNERnRiMg?oc=5",
-      "fuente": "El Colombiano",
       "fecha": "2026-10-23T07:00:00.000Z"
     },
     {
@@ -387,7 +387,7 @@
       "fecha": "2026-10-22T07:00:00.000Z"
     },
     {
-      "titulo": "25 senadores piden a la Fiscalía investigar a Levy Rincón por ataques a la primera dama",
+      "titulo": "25 senadores piden a la Fiscalía investigar a Levy Rincón por ataques a Ana Lucía Pineda",
       "enlace": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbURXSndnalFGVERHRzJJeW1kZjBVdTlncFpISnhLVGVQUmdwN3htamV3b2l4d3B3bU00ckdyUXBOMUhiYUsxbVFDSTZXS0d0ejkzb2Fjd0RIaElKc1VwazBiaGFXOGNWUFV6N3M2aEp2U1BjWGRtQnV1Q3JkMHBodUVfVkpjQzFfUjh5a0prQlh1dFJ6cjd1bDB3Q1ppRklQbnA0MjNJRGpkMTg?oc=5",
       "fuente": "Colombia.com",
       "fecha": "2026-10-22T07:00:00.000Z"
