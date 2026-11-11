@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-10T20:07:34.646Z",
+  "actualizado": "2026-11-11T07:23:45.270Z",
   "canal": "UCn5ZEYfPJF_D84XFS0u434w",
   "noticias": [
     {
@@ -75,12 +75,6 @@
       "fecha": "2026-10-29T07:00:00.000Z"
     },
     {
-      "titulo": "Sale a la luz video con desafiantes gestos de 'Matador' en contra de 'Jota Pe Hernández' durante agarrón en el Senado",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnBGc0dCcW5yVlJ4d1lRaklRMkZXeFd4ajZQcksxYy1sZUZyQUkwT1V0c3A3QzYxS0dsSU1VYm1NakRMS2RmTTlxRG5QMUt5YzZqMGJEeEJ4MzVVYWVkTE0ta0dNYjBNWTdaMGxoMnRDdVc1VzZ5WmRLdjdiN281WTA0OG1hWDB3bHhRTW8wS0twV2JiZWxuWWc4Tkp0cmtfWVpzTA?oc=5",
-      "fuente": "redmas.com.co",
-      "fecha": "2026-10-29T07:00:00.000Z"
-    },
-    {
       "titulo": "Ernesto Macías le envió mensaje a Jota Pe Hernández tras altercado con Matador en el Congreso",
       "enlace": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOem9jRGpwMkZZU01IYnIzRXdaSERtMktuR0VrTkJVbDBLUXdFS19helhMRFpiQjNnNG1FOEVqT1BvTF8wOWhmNzE4Szk0V203QWFfQVR4di1vdjdNMC1DUnJPUEl5cGNPWC13bkM3d3VVS0VldVgyejI3ZVZuM0pOV0VrZXlQMnJOVjBqMDU2NTNfQ05kMVhSVlJCeUl1Y00wdk1BVi1rV3NXUEt4bk05X1A5TGdJWEVfSlA2RDRmczJjRkI1NEdCc1FKSEFKY0RTZzlhTjZaUW9QUdIB3wFBVV95cUxNY21laktIZUZWdDI3NmZIY3hCWXpJTFhaVWk2c0kyMWZCb0ktNXBENzZtQ0NSeGFkTkxobUdyckVmdEFFZEJESU94Vk1qcklmckh0X2RyVURIUTIwM2tIN2VQUmhRZW5XVFJzREUxSERUU216S1BrTG1aQVozczQtTDVxWkRuUVJJbjM4YWNReU5lNzlwN3JrdTdzY29vZ1poY2hVLWk5c1Q2RkpYMlpNNFJaNm12LVdHYWpab1E5QkVfek5EZW1LUGRMc25KVE5EQzRBLW9HcmNkUUJFRFAw?oc=5",
       "fuente": "Revista Semana",
@@ -93,21 +87,27 @@
       "fecha": "2026-10-29T07:00:00.000Z"
     },
     {
+      "titulo": "Sale a la luz video con desafiantes gestos de 'Matador' en contra de 'Jota Pe Hernández' durante agarrón en el Senado",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnBGc0dCcW5yVlJ4d1lRaklRMkZXeFd4ajZQcksxYy1sZUZyQUkwT1V0c3A3QzYxS0dsSU1VYm1NakRMS2RmTTlxRG5QMUt5YzZqMGJEeEJ4MzVVYWVkTE0ta0dNYjBNWTdaMGxoMnRDdVc1VzZ5WmRLdjdiN281WTA0OG1hWDB3bHhRTW8wS0twV2JiZWxuWWc4Tkp0cmtfWVpzTA?oc=5",
+      "fuente": "redmas.com.co",
+      "fecha": "2026-10-29T07:00:00.000Z"
+    },
+    {
       "titulo": "Polémica en el Senado por presencia de ‘Matador’: Jota Pe Hernández exigió su salida",
       "enlace": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaUh2YkthZ0ozTzRwMjU5cWRqQ1J6Zm5XM3lISXB0MU5SQlVFY3ZDeU42VlpBLUNmdUg1TWJLTmpWOVpXbUtTT3d2aVpVOWtPX014aklUOEtlRnhFekxEQ1U4VkdZNzVUX1RpMjdXUEV4ZXRERlJXRXRSRXFtUEhSM3VGdDIxYllEb1NlcllqUHl5TndENDB5WVFEYnI2OGVhcXZpdFdjdjY5Q2U5eDdhWFpaSXBOcFJsTjNqMy1R?oc=5",
       "fuente": "El Diario - Noticias Pereira, Colombia y el Mundo",
       "fecha": "2026-10-29T07:00:00.000Z"
     },
     {
-      "titulo": "Políticos reaccionaron a la polémica presencia del caricaturista Matador en el Senado: “Así se le habla a ese sinvergüenza”",
-      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSTRNR1V5RDJ1ZDBKZzNIN3JNZ3FZQlhjaEhsMGQtSWx4Zm05MkRBVFlCemFkbmtKODVJc2FyUHUwTlVzNUI1NGhEWWpLUUNlMEo0V0VUSWJuQkZOb25sY3Uta3BYU2RmNU1jajFOM1pnNGQtdm5mTVlrZW04RVdvdXZpRUhrVVdvRDBZZlBrNWdtVVl2MVJ5WUE1eU1hazR3ZlFEYkFQeHM0VER6a0dJYlF1VXB5d1ctMDhPbUIzNDJkTWlWUG5KemhwSkVWTGJxYVBMaEhnUk14Q01ZUE00YUN4QlBJQUp6QVJodjJNOGNnSFhN0gGPAkFVX3lxTE44WTNDbUc4dDNyT3FQUngxeHRBaC1sdVBHNF93YlZqTjZURnFqX3oySGw0dXFnNmhVZnYyeUdWMVZLWmZKUlg5R2twbXptb2dCN2JNU1VhSjlkX2xFQ0tnWm1QUHl1Z29PdmFpN3FCemNEbng3NHZjMTEyRUp4WkkwU2JSZzB3WldhNlUzWnkzNWhsZmJrY2lJLVN0R2ZsX1Q5SHkxbVlQVW83S0cydTJKWjQ2Z2p0SmtQc3V5VTdEd1NqLUNHRGVEUWVsdFFaU0kzZjJDbGhFLUI1OEMzaV9PanRTRnBJU0xWcl91UU5PT1M3dVRSdC01TkFMSjEteFN6V2JZektvZ0d4RW92Snc?oc=5",
-      "fuente": "Infobae",
-      "fecha": "2026-10-29T07:00:00.000Z"
-    },
-    {
       "titulo": "El fuerte agarrón entre JP Hernández e Isabel Zuleta por Matador en el Congreso: “Defiende a un hombre que le pega a su esposa”",
       "enlace": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNcGpDQkR5RUdvbUtZQmpOWmRLc1RrUVJXOG84ZE9iWklaaWQzYTZUVVJTdE1XblBLa1VuZkpSNFlycEN6TEFlZms1d01yU3l4cjFqX2VPSE42WW9tSVBUSGo1b3pxSk80aXV5RUk5LUZHVm1vUVd1UExiOGFvQ1lNQ2xBNWM3OS05X3dOQURvTlAwc19MeXBRT0FqVU1TQlpRbFl1d1o0aE1Qd2dZVnNFbk5BNkZFSmY4V0lfU2RVWC1OeHZCZ2p5LUltUEtjUmxta0dFNmlWQnFsbmY0OFg0Y1REdWJCdHZxZEZ5SXByWEVwSFlxQUdvNUVrWTNYM00xWWR5NnhXbjRpUGfSAZACQVVfeXFMT3RpVlJPeTdieFFYUTF5WWwzZmxvMkpvYm5GSWhiemxNVVNJaE1yaVpjblY3d3hHbUZhRHpJeWFsTGk4eE5oM05qTkJpU2hvZ2VVN215bjBuMTJqMThhbFIweDF3akxSRkVsTVFpdUVnY0R3TDZXbURqUlE1WGJodVF3Tm9DRUpOSE8zV3FLRERzV3BSQ2RlRURhYm1ld1h2RWszLXBrZm1GY0ExeEp4TFpuVjd3SGp5MzRpMzFpNDBNRHBxU3RqbzVCMzNoTmUxdy1VRkNPVFJzeXhwVXB1c2xNSVBNQ3k5djlhQ0lfRGwtajJOZlF0TmtvUTZoRXBLakQ0c3d2cEFxSHJTRjI0UGI?oc=5",
       "fuente": "Revista Semana",
+      "fecha": "2026-10-29T07:00:00.000Z"
+    },
+    {
+      "titulo": "Políticos reaccionaron a la polémica presencia del caricaturista Matador en el Senado: “Así se le habla a ese sinvergüenza”",
+      "enlace": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSTRNR1V5RDJ1ZDBKZzNIN3JNZ3FZQlhjaEhsMGQtSWx4Zm05MkRBVFlCemFkbmtKODVJc2FyUHUwTlVzNUI1NGhEWWpLUUNlMEo0V0VUSWJuQkZOb25sY3Uta3BYU2RmNU1jajFOM1pnNGQtdm5mTVlrZW04RVdvdXZpRUhrVVdvRDBZZlBrNWdtVVl2MVJ5WUE1eU1hazR3ZlFEYkFQeHM0VER6a0dJYlF1VXB5d1ctMDhPbUIzNDJkTWlWUG5KemhwSkVWTGJxYVBMaEhnUk14Q01ZUE00YUN4QlBJQUp6QVJodjJNOGNnSFhN0gGPAkFVX3lxTE44WTNDbUc4dDNyT3FQUngxeHRBaC1sdVBHNF93YlZqTjZURnFqX3oySGw0dXFnNmhVZnYyeUdWMVZLWmZKUlg5R2twbXptb2dCN2JNU1VhSjlkX2xFQ0tnWm1QUHl1Z29PdmFpN3FCemNEbng3NHZjMTEyRUp4WkkwU2JSZzB3WldhNlUzWnkzNWhsZmJrY2lJLVN0R2ZsX1Q5SHkxbVlQVW83S0cydTJKWjQ2Z2p0SmtQc3V5VTdEd1NqLUNHRGVEUWVsdFFaU0kzZjJDbGhFLUI1OEMzaV9PanRTRnBJU0xWcl91UU5PT1M3dVRSdC01TkFMSjEteFN6V2JZektvZ0d4RW92Snc?oc=5",
+      "fuente": "Infobae",
       "fecha": "2026-10-29T07:00:00.000Z"
     },
     {
@@ -297,12 +297,6 @@
       "fecha": "2026-10-23T07:00:00.000Z"
     },
     {
-      "titulo": "Senadores denuncian al influenciador Levy Rincón ante la Fiscalía por presuntos ataques contra primera dama, Ana Lucía Pineda: 'Respetar a mujeres'",
-      "enlace": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOUk9uY09OaWhjV0VHNGx4bk9JQjNycE41SW5GTjFCVUVpZjkwamNVY0JKaVFNclBqckh5RjRoenF3M0VRRVNvSkFSdEc2VFNabWlSZV81Ym1rX1VLTkIwd0R4dUEySExJUU5XMlVTakV3eWVyV1FWY2JOR2xaZHhNbUZsalFXaU1tYjVwSzVYbXBTS0k0NVpIQ1Y2ZmpYVy1mc0l6MENQVnQxdGhONHAtSGQyZTY1WU9lTGFwOTBJTEZaNk5JbDV3bDRQV0pzRkE3c3IwZy0xeVhVbjA3Z0ZpUFJNd3l2UUlNS0FQZS1wZ1Jpei1FMkU1WURmSVpmMXlIdlNYeVJfMjVFYmI4WDFsd2wtZl9yci1NbEJsemVzZ9IBpAJBVV95cUxPX1NGSlBWYlNqU0RDcU1GWXllWFZ3VUVUZTQwd0QxNDlBMG5CSmxSV2RIRlRGSXFnaDlWQWcxajF3U29uT3B5NEx2TkRDdjkyN0g0NjdrTzd2M2RwY2hZX2UybWFHUndIWFNSdWVaaHdxRFIyU2NMWkpRbkpfMXVIZWZKTzNKb2FnVXlvWGl6c0E0VE5LWHBkSEhrQ3V0UGVrc2w2Sk1EUFZsbW5xTjA4TS1JY3ZKczBYT1cyX2hDU2lfVzJIRkFZM3dhUFYxTzFZV1ZqTjFNY3BDVENzN3AzS2R1NmJaNjd3Y2xXZ2FfVkZIY05FMl85UHVYSVUtbjFYN3I5eW1FNFFSeTJlVFk0aXVjSjFpR2d3Mk5VTTlvTld0SXdJ?oc=5",
-      "fuente": "El Tiempo",
-      "fecha": "2026-10-23T07:00:00.000Z"
-    },
-    {
       "titulo": "Jota Pe Hernández y otros 24 congresistas piden investigar a Levy Rincón por insultos contra la primera dama, Ana Lucía Pineda",
       "enlace": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdW9MY2tiYTN3M2Y1djFtN0thNkNxY29oY0V6ODlVRjhwZTRxTFkweUZOUnplX19WMjNTdlc1OGxTbzFVcTdWZTVkdDc0dDE3MHRjaGFiLUhjYy1HcV9iY3hNQUlQU012MGRiZVFzdmp6RWlNWHBzV0N4bC1xOHIyUUlsR0JOV1lmRlFKRDJPM3BCTjNDVEJyRHN3WlQyZU4zT09Welc0UEJEdnBnREx0clRkR3llUnZHTmdoY3NnaGFkbmRZd0ZLLUVVV01fdXlaWWZDamlZaEdISU5CQ1g3eHcxd3Y3OGtHRlNGUXJtWERMOG92ZmxFWFRqbVJQRmfSAYQCQVVfeXFMTk5HZnU5ei1keEZiSDR0Vlp1SWRMaHMwVWl2TjNDRnVRY04xLVZ2OC03ODBvWWIzdXFyY3hOVV9EeHFGdkdPVTZXWm1YeUJMYkphcHpYLTVFUkdBbEJzaUxJWkdsQ3ZRdU5HMHFfaUVLUkZfcHlSVzAzRzNJRUZfX3o5dWVETzRHLXJuaEpWN0Y1dlBQbzhfdllGbndsTUI0NmM3VnczZ3VNNXJjZ0JfeFlMRk5kbEdNY25zTE5DaldzTlJNMWVRd2IxbXU3a09xYm5jR1hIbGQ3dk5RQmNmSjVseFRQMkxudVNKMWNEYkI3aWtaeGRDZlZxRUc1OTFoSHRpRy0?oc=5",
       "fuente": "El País",
@@ -318,6 +312,12 @@
       "titulo": "Levy Rincón responde con nuevos insultos tras denuncia de 25 senadores ante la Fiscalía",
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1d5eUItN050RmpVclRpUmpLY0ZJbDd5YXF4NlA5anZPb0V6enJZQ090NTkxd0xITEF1cnNtSFFlOTdPYXVWS3VCSGRvSXZtX2FvZjAyeXByRG9pcVJzczZ6ckM4STlzNGJMZzNtMW1JYUd3dm5rLWVicURWUDEwRTVQOXpRWlg3dldUeEhVd3hjR2VjWVY5WEl2eG5hSnpFQ0IyWEpXa3BZUE5KekpOVFJMcXRnTWc?oc=5",
       "fuente": "Nos Cogió la Noche",
+      "fecha": "2026-10-23T07:00:00.000Z"
+    },
+    {
+      "titulo": "Senadores denuncian al influenciador Levy Rincón ante la Fiscalía por presuntos ataques contra primera dama, Ana Lucía Pineda: 'Respetar a mujeres'",
+      "enlace": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOUk9uY09OaWhjV0VHNGx4bk9JQjNycE41SW5GTjFCVUVpZjkwamNVY0JKaVFNclBqckh5RjRoenF3M0VRRVNvSkFSdEc2VFNabWlSZV81Ym1rX1VLTkIwd0R4dUEySExJUU5XMlVTakV3eWVyV1FWY2JOR2xaZHhNbUZsalFXaU1tYjVwSzVYbXBTS0k0NVpIQ1Y2ZmpYVy1mc0l6MENQVnQxdGhONHAtSGQyZTY1WU9lTGFwOTBJTEZaNk5JbDV3bDRQV0pzRkE3c3IwZy0xeVhVbjA3Z0ZpUFJNd3l2UUlNS0FQZS1wZ1Jpei1FMkU1WURmSVpmMXlIdlNYeVJfMjVFYmI4WDFsd2wtZl9yci1NbEJsemVzZ9IBpAJBVV95cUxPX1NGSlBWYlNqU0RDcU1GWXllWFZ3VUVUZTQwd0QxNDlBMG5CSmxSV2RIRlRGSXFnaDlWQWcxajF3U29uT3B5NEx2TkRDdjkyN0g0NjdrTzd2M2RwY2hZX2UybWFHUndIWFNSdWVaaHdxRFIyU2NMWkpRbkpfMXVIZWZKTzNKb2FnVXlvWGl6c0E0VE5LWHBkSEhrQ3V0UGVrc2w2Sk1EUFZsbW5xTjA4TS1JY3ZKczBYT1cyX2hDU2lfVzJIRkFZM3dhUFYxTzFZV1ZqTjFNY3BDVENzN3AzS2R1NmJaNjd3Y2xXZ2FfVkZIY05FMl85UHVYSVUtbjFYN3I5eW1FNFFSeTJlVFk0aXVjSjFpR2d3Mk5VTTlvTld0SXdJ?oc=5",
+      "fuente": "El Tiempo",
       "fecha": "2026-10-23T07:00:00.000Z"
     },
     {
