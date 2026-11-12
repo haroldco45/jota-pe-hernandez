@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-12T03:11:11.537Z",
+  "actualizado": "2026-11-12T11:35:56.220Z",
   "canal": "UCn5ZEYfPJF_D84XFS0u434w",
   "noticias": [
     {
@@ -75,12 +75,6 @@
       "fecha": "2026-10-29T07:00:00.000Z"
     },
     {
-      "titulo": "Sale a la luz video con desafiantes gestos de 'Matador' en contra de 'Jota Pe Hernández' durante agarrón en el Senado",
-      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnBGc0dCcW5yVlJ4d1lRaklRMkZXeFd4ajZQcksxYy1sZUZyQUkwT1V0c3A3QzYxS0dsSU1VYm1NakRMS2RmTTlxRG5QMUt5YzZqMGJEeEJ4MzVVYWVkTE0ta0dNYjBNWTdaMGxoMnRDdVc1VzZ5WmRLdjdiN281WTA0OG1hWDB3bHhRTW8wS0twV2JiZWxuWWc4Tkp0cmtfWVpzTA?oc=5",
-      "fuente": "redmas.com.co",
-      "fecha": "2026-10-29T07:00:00.000Z"
-    },
-    {
       "titulo": "Por lo que hizo con la Policía, Jota Pe Hernández tira pulla a Isabel Zuleta: “Lo hace mucho la izquierda”",
       "enlace": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ1o3N0hxenN2Z0thdXRyaUFiR1dyc3o1ME9DalZyV0VURUw1Y1JRSXlYLWVkUTB4RGRsYl9BeWxIeUxTSjdRb2FPbkRyUnV3ZFZvMndFQUpwQlhwQi1MZG0xbl8wMnpXZWpyQ0N0V1o2bi1yZU96aTFKOWl1aDc3dXYwNVZQc1VPY2dxRTY0cmsxcXA0YTdONFp6SERrd3NOajhid1Y2NXVxaWJpMy1EcGlMc000U2hOVGZRX0lEZ09fMmdCU1VRdjUxdDdMNDI4dmRDTFFDeTVNV2tjdDlodWxaOVdZZ9IB6wFBVV95cUxQWTRjQmVFUE1yVTd3V0tITWhjSlBNbUlSaUdHX3o3MnhxWEU4a2doQWl6UzBoeTVJZFRlZFRNSkU5X3QwRGI0b01MM1RuY1ZET25qZ0lZdjRJcl9Eb211Mkg1WGFaSzlYNVJNOWJyeDR0ekJ1VVRFRWF6M0FiZ0k5NGlKRmg4VW81M0VQc0U2MmlCQ3JRbzFxdVdXcUNzaUctYnp5RE0xc1hudnpRSnVTOExDc2pGNVB4RFExeDNVMF9mczlESU9MbFZQRXNtdFFCQXc0WkFFd2p4TFRmTDFLekpLQnluN05ITEo0?oc=5",
       "fuente": "Revista Semana",
@@ -120,6 +114,12 @@
       "titulo": "El 'show' de 'Matador' en el Congreso: este fue el choque que generó su presencia",
       "enlace": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb05uLVJIUnRtWE9SN2VUWjhxUlZldVJjaEhiUVFxT2xFM2Z6dmZRbW9XYU1YbEhZRkpiNi1mUzJtVF9MMTBFRlg2LUZGejA5OHUwQXZMLVVFWWFTZTUxbHQzY3hfVmEzb2pBREpoU2QtSk4tNFFXTW16WWNEWWNRUFRJcHZEbzg2VUNWbDBGUVF2dU5IZ3c5TnpVX2JoWFVhcFZDNmtjTmE2cFhSalBkSVpKclBPUQ?oc=5",
       "fuente": "Minuto60",
+      "fecha": "2026-10-29T07:00:00.000Z"
+    },
+    {
+      "titulo": "Sale a la luz video con desafiantes gestos de 'Matador' en contra de 'Jota Pe Hernández' durante agarrón en el Senado",
+      "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnBGc0dCcW5yVlJ4d1lRaklRMkZXeFd4ajZQcksxYy1sZUZyQUkwT1V0c3A3QzYxS0dsSU1VYm1NakRMS2RmTTlxRG5QMUt5YzZqMGJEeEJ4MzVVYWVkTE0ta0dNYjBNWTdaMGxoMnRDdVc1VzZ5WmRLdjdiN281WTA0OG1hWDB3bHhRTW8wS0twV2JiZWxuWWc4Tkp0cmtfWVpzTA?oc=5",
+      "fuente": "redmas.com.co",
       "fecha": "2026-10-29T07:00:00.000Z"
     },
     {
@@ -195,9 +195,9 @@
       "fecha": "2026-10-24T07:00:00.000Z"
     },
     {
-      "titulo": "Levy Rincón denunció que lo querían “censurar” y Jota Pe Hernández le respondió que la primera dama ya lo demandó: “Tres Doritos después...”",
-      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObE5HZVpGRFdUa2pSbjF1VEU4VzZnZmZVSDVjejdFX0drdE00ZGMyTlZlZTQxVzNkSFQ2M2h2TFNGXzNmVnN2Nzk4aXEwRncxWHN1LW1UWEVMejhETGk3TmZfZ01lVXdJeWJYMU85QUtibW1zOFpXcWxhUjMxb254OUduRWQtUS1PMEYzUkphVGxYR3A3S3Q3Y2dqVGNQRkthQW4wRlhJZWhXR3pRVm5kWk1xNVE0bjh6aWY4MzZ2dy1rSjVXbUJucWtPY0YyRkhTcF9YOW04RC05MUozM2VlQ0ptZWw0aFpqcEU2N1FDZHFrR1B4S1pVbm5haUt1QVVqb0pTVnRzOXrSAaMCQVVfeXFMTlhMMzRWa0ZGZno4ZV9VeV9UWE5PTGtPdW8zR2I0My00UjZNa3FaSGktbmdnY2U5QTk2WVV5VzRHUTRaREpBWURLUWdjRFZzZDRodUxiTkRfWWxwZW5jRlAwU0YzZ19ITmxNbWpmdk1keklvMEFnRE8xb20zNlo1T1pkVmUyOTI1S1dmMmd6MHRoVl9fMl9lRjE4Sm1FbjNkQ1FoaW9TTUZ0YlpXc3RyT2hPb3B2RlpQTmlIRGg1MEJ0dzJhU0FBaVlkajA1ZXhFSHEtOWZzUzA2bjVOZEtfbjJGdzNKU0hwQ1dSdTd4YjA2VEh2NkxKOXJWTVQ4SmxPM3pzVWJoRG9LVmZCSkd3MG5SeThfN1N4UnZRbDBaSm93Yi1F?oc=5",
-      "fuente": "Infobae",
+      "titulo": "Ana Lucía Pineda denuncia a Levy Rincón ante la Fiscalía, confirmó Jota Pe Hernández",
+      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaTVwVGJFV0NoTldrRTZNcldKcWxwRFFLWnBwaUFPSVQ5LUE0U1B4UkpHcHBzdGh2MGZVZ3dUWTNlTFRwODkxM0RwNF9ENC05U1NHU3lhV0U5ODlFd2huZTl6OUdSTk1qZWxrNWZoTFlCeWtRd1M0RUJobzNSWjFTMV95blA5SjJSLTdOQXZPSWJrQ2pJbTdoSGJveHlyLVhSMGFvQlNNTU85b1NaOU94YUp5ZjNsRWJtX0hCMFVVVzF5bGpKNDBF0gHMAUFVX3lxTE1xNndhb0hMaHhLOWUxcEcxQ2lROWZKR3R0YnFJWnl3dWwzU2dCWDNoOEkzcGI0a3J3MXhTNWpwX0FoTDJzaFBJbEVUQTVIZWExNWsxdkRySWxHYVdLamJ5Tk1hMXM4RDNIOG9ObVdUY3BfY2gyV0J0aVZEeHkxdE1ZOXJ3aUJBY1lBSXpzLTJ6VG1ibDk0eGRUMjZXWmhwVGpKY2h1bGFFazJZMnFIanllVEh1NkNJWi1yM2hGc3Y0YklLTEtvRXh5c0JIOA?oc=5",
+      "fuente": "El País",
       "fecha": "2026-10-24T07:00:00.000Z"
     },
     {
@@ -207,9 +207,9 @@
       "fecha": "2026-10-24T07:00:00.000Z"
     },
     {
-      "titulo": "Ana Lucía Pineda denuncia a Levy Rincón ante la Fiscalía, confirmó Jota Pe Hernández",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaTVwVGJFV0NoTldrRTZNcldKcWxwRFFLWnBwaUFPSVQ5LUE0U1B4UkpHcHBzdGh2MGZVZ3dUWTNlTFRwODkxM0RwNF9ENC05U1NHU3lhV0U5ODlFd2huZTl6OUdSTk1qZWxrNWZoTFlCeWtRd1M0RUJobzNSWjFTMV95blA5SjJSLTdOQXZPSWJrQ2pJbTdoSGJveHlyLVhSMGFvQlNNTU85b1NaOU94YUp5ZjNsRWJtX0hCMFVVVzF5bGpKNDBF0gHMAUFVX3lxTE1xNndhb0hMaHhLOWUxcEcxQ2lROWZKR3R0YnFJWnl3dWwzU2dCWDNoOEkzcGI0a3J3MXhTNWpwX0FoTDJzaFBJbEVUQTVIZWExNWsxdkRySWxHYVdLamJ5Tk1hMXM4RDNIOG9ObVdUY3BfY2gyV0J0aVZEeHkxdE1ZOXJ3aUJBY1lBSXpzLTJ6VG1ibDk0eGRUMjZXWmhwVGpKY2h1bGFFazJZMnFIanllVEh1NkNJWi1yM2hGc3Y0YklLTEtvRXh5c0JIOA?oc=5",
-      "fuente": "El País",
+      "titulo": "Levy Rincón denunció que lo querían “censurar” y Jota Pe Hernández le respondió que la primera dama ya lo demandó: “Tres Doritos después...”",
+      "enlace": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObE5HZVpGRFdUa2pSbjF1VEU4VzZnZmZVSDVjejdFX0drdE00ZGMyTlZlZTQxVzNkSFQ2M2h2TFNGXzNmVnN2Nzk4aXEwRncxWHN1LW1UWEVMejhETGk3TmZfZ01lVXdJeWJYMU85QUtibW1zOFpXcWxhUjMxb254OUduRWQtUS1PMEYzUkphVGxYR3A3S3Q3Y2dqVGNQRkthQW4wRlhJZWhXR3pRVm5kWk1xNVE0bjh6aWY4MzZ2dy1rSjVXbUJucWtPY0YyRkhTcF9YOW04RC05MUozM2VlQ0ptZWw0aFpqcEU2N1FDZHFrR1B4S1pVbm5haUt1QVVqb0pTVnRzOXrSAaMCQVVfeXFMTlhMMzRWa0ZGZno4ZV9VeV9UWE5PTGtPdW8zR2I0My00UjZNa3FaSGktbmdnY2U5QTk2WVV5VzRHUTRaREpBWURLUWdjRFZzZDRodUxiTkRfWWxwZW5jRlAwU0YzZ19ITmxNbWpmdk1keklvMEFnRE8xb20zNlo1T1pkVmUyOTI1S1dmMmd6MHRoVl9fMl9lRjE4Sm1FbjNkQ1FoaW9TTUZ0YlpXc3RyT2hPb3B2RlpQTmlIRGg1MEJ0dzJhU0FBaVlkajA1ZXhFSHEtOWZzUzA2bjVOZEtfbjJGdzNKU0hwQ1dSdTd4YjA2VEh2NkxKOXJWTVQ4SmxPM3pzVWJoRG9LVmZCSkd3MG5SeThfN1N4UnZRbDBaSm93Yi1F?oc=5",
+      "fuente": "Infobae",
       "fecha": "2026-10-24T07:00:00.000Z"
     },
     {
@@ -303,6 +303,12 @@
       "fecha": "2026-10-23T07:00:00.000Z"
     },
     {
+      "titulo": "Senadores denuncian al influenciador Levy Rincón ante la Fiscalía por presuntos ataques contra primera dama, Ana Lucía Pineda: 'Respetar a mujeres'",
+      "enlace": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOUk9uY09OaWhjV0VHNGx4bk9JQjNycE41SW5GTjFCVUVpZjkwamNVY0JKaVFNclBqckh5RjRoenF3M0VRRVNvSkFSdEc2VFNabWlSZV81Ym1rX1VLTkIwd0R4dUEySExJUU5XMlVTakV3eWVyV1FWY2JOR2xaZHhNbUZsalFXaU1tYjVwSzVYbXBTS0k0NVpIQ1Y2ZmpYVy1mc0l6MENQVnQxdGhONHAtSGQyZTY1WU9lTGFwOTBJTEZaNk5JbDV3bDRQV0pzRkE3c3IwZy0xeVhVbjA3Z0ZpUFJNd3l2UUlNS0FQZS1wZ1Jpei1FMkU1WURmSVpmMXlIdlNYeVJfMjVFYmI4WDFsd2wtZl9yci1NbEJsemVzZ9IBpAJBVV95cUxPX1NGSlBWYlNqU0RDcU1GWXllWFZ3VUVUZTQwd0QxNDlBMG5CSmxSV2RIRlRGSXFnaDlWQWcxajF3U29uT3B5NEx2TkRDdjkyN0g0NjdrTzd2M2RwY2hZX2UybWFHUndIWFNSdWVaaHdxRFIyU2NMWkpRbkpfMXVIZWZKTzNKb2FnVXlvWGl6c0E0VE5LWHBkSEhrQ3V0UGVrc2w2Sk1EUFZsbW5xTjA4TS1JY3ZKczBYT1cyX2hDU2lfVzJIRkFZM3dhUFYxTzFZV1ZqTjFNY3BDVENzN3AzS2R1NmJaNjd3Y2xXZ2FfVkZIY05FMl85UHVYSVUtbjFYN3I5eW1FNFFSeTJlVFk0aXVjSjFpR2d3Mk5VTTlvTld0SXdJ?oc=5",
+      "fuente": "El Tiempo",
+      "fecha": "2026-10-23T07:00:00.000Z"
+    },
+    {
       "titulo": "Jota Pe Hernández salió en defensa de la primera dama y denunció a Levy Rincón por fuertes ‘madrazos’ y “calumnia”",
       "enlace": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOWDU5Z3VBME54NG5CSmlZWDRwaHJDOGZUdk93dm5RYi1pNXR6ckxKZVRWalpTcERKTjBXZ3hkN0ppdTBOTEJkWTNLcWZuNENuMjFiV3B2U01WX3VTQTN0ZFhfRHFhcGpyRDhOclJnbzVFQTBjdUZtb0VBOGJteTlHOXpsVUNWOW04QnpyQzdEbG1EZEJLTkNNNks3Q3V1YzBOZDBVVDgwd1JHV0xmZ0ZTb29PTjBfLTFHdy1BWFN2MER4ci16ck9qME9CNlI1eG03VWZSSThMLWtYY1FLWWZvMTZHNlJZUnBoUGhEc0xR?oc=5",
       "fuente": "Publimetro Colombia",
@@ -318,12 +324,6 @@
       "titulo": "Levy Rincón responde con nuevos insultos tras denuncia de 25 senadores ante la Fiscalía",
       "enlace": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPZ1d5eUItN050RmpVclRpUmpLY0ZJbDd5YXF4NlA5anZPb0V6enJZQ090NTkxd0xITEF1cnNtSFFlOTdPYXVWS3VCSGRvSXZtX2FvZjAyeXByRG9pcVJzczZ6ckM4STlzNGJMZzNtMW1JYUd3dm5rLWVicURWUDEwRTVQOXpRWlg3dldUeEhVd3hjR2VjWVY5WEl2eG5hSnpFQ0IyWEpXa3BZUE5KekpOVFJMcXRnTWc?oc=5",
       "fuente": "Nos Cogió la Noche",
-      "fecha": "2026-10-23T07:00:00.000Z"
-    },
-    {
-      "titulo": "Senadores denuncian al influenciador Levy Rincón ante la Fiscalía por presuntos ataques contra primera dama, Ana Lucía Pineda: 'Respetar a mujeres'",
-      "enlace": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOUk9uY09OaWhjV0VHNGx4bk9JQjNycE41SW5GTjFCVUVpZjkwamNVY0JKaVFNclBqckh5RjRoenF3M0VRRVNvSkFSdEc2VFNabWlSZV81Ym1rX1VLTkIwd0R4dUEySExJUU5XMlVTakV3eWVyV1FWY2JOR2xaZHhNbUZsalFXaU1tYjVwSzVYbXBTS0k0NVpIQ1Y2ZmpYVy1mc0l6MENQVnQxdGhONHAtSGQyZTY1WU9lTGFwOTBJTEZaNk5JbDV3bDRQV0pzRkE3c3IwZy0xeVhVbjA3Z0ZpUFJNd3l2UUlNS0FQZS1wZ1Jpei1FMkU1WURmSVpmMXlIdlNYeVJfMjVFYmI4WDFsd2wtZl9yci1NbEJsemVzZ9IBpAJBVV95cUxPX1NGSlBWYlNqU0RDcU1GWXllWFZ3VUVUZTQwd0QxNDlBMG5CSmxSV2RIRlRGSXFnaDlWQWcxajF3U29uT3B5NEx2TkRDdjkyN0g0NjdrTzd2M2RwY2hZX2UybWFHUndIWFNSdWVaaHdxRFIyU2NMWkpRbkpfMXVIZWZKTzNKb2FnVXlvWGl6c0E0VE5LWHBkSEhrQ3V0UGVrc2w2Sk1EUFZsbW5xTjA4TS1JY3ZKczBYT1cyX2hDU2lfVzJIRkFZM3dhUFYxTzFZV1ZqTjFNY3BDVENzN3AzS2R1NmJaNjd3Y2xXZ2FfVkZIY05FMl85UHVYSVUtbjFYN3I5eW1FNFFSeTJlVFk0aXVjSjFpR2d3Mk5VTTlvTld0SXdJ?oc=5",
-      "fuente": "El Tiempo",
       "fecha": "2026-10-23T07:00:00.000Z"
     },
     {
@@ -485,6 +485,11 @@
   ],
   "videos": [
     {
+      "id": "bwhlPoxh8OM",
+      "titulo": "🛑EN VIVO!! LOS ZURDOS ESTÁN LLORANDO Y ESO NOS GENERA PLACER!",
+      "fecha": "2026-11-12T02:34:03+00:00"
+    },
+    {
       "id": "KX-lG7_DzgU",
       "titulo": "🔴EL SOLDADO ABELARDO SIGUE DERRONTANDO A LOS BANDlD0S - NUESTRAS GLORIOSAS FUERZAS ESTÁN FELICES!!",
       "fecha": "2026-11-10T16:20:53+00:00"
@@ -518,11 +523,6 @@
       "id": "QBAZ4t-iVZE",
       "titulo": "🔴ÚLTIMA HORA!! PRIMERA DAMA TAMBIÉN DENUNCIA A LEVY RINCÓN ANTE LA FlSCALlA!!",
       "fecha": "2026-10-24T20:00:53+00:00"
-    },
-    {
-      "id": "6J9C8UCOQQo",
-      "titulo": "🔴DENUNClAM0S A ESTE ZURDO DESPREClABLE ANTE LA FlSCALlA! LEVY RINCÓN NO TE VAS A BURLAR DEL ESTADO!",
-      "fecha": "2026-10-22T23:40:47+00:00"
     }
   ]
 }
