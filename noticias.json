@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T02:33:50.292Z",
+  "actualizado": "2026-11-26T11:43:39.273Z",
   "canal": "UCn5ZEYfPJF_D84XFS0u434w",
   "noticias": [
     {
@@ -156,6 +156,12 @@
       "titulo": "Sale a la luz video con desafiantes gestos de 'Matador' en contra de 'Jota Pe Hernández' durante agarrón en el Senado",
       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcnBGc0dCcW5yVlJ4d1lRaklRMkZXeFd4ajZQcksxYy1sZUZyQUkwT1V0c3A3QzYxS0dsSU1VYm1NakRMS2RmTTlxRG5QMUt5YzZqMGJEeEJ4MzVVYWVkTE0ta0dNYjBNWTdaMGxoMnRDdVc1VzZ5WmRLdjdiN281WTA0OG1hWDB3bHhRTW8wS0twV2JiZWxuWWc4Tkp0cmtfWVpzTA?oc=5",
       "fuente": "redmas.com.co",
+      "fecha": "2026-10-29T07:00:00.000Z"
+    },
+    {
+      "titulo": "Matador responde a los ataques del presidente y aviva la pol",
+      "enlace": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdjdRS0drUDZYN3RWTjFMakw2YVhSNUk5cm5qOFNkLS13OVNuQ3dZS05TRzZyZk1pMFlEYmtLb2FDMDFKYWNVVm9SZGlsT2hwcFZGNU5iNDNfX2FoYlRUVXUyRFJocDU3R1hIazcwSm5RUEhxMHNoRDF6VFZOOHNDQXpaWThISHQ0dzY2UkI5U0M3a2UtNmpDMU1ITHlRQmlrVTZMOHpXYW8wOFcwdGpGdFNBTlJMcnNlMXBsQnc1S09kUQ?oc=5",
+      "fuente": "Diario del Sur",
       "fecha": "2026-10-29T07:00:00.000Z"
     },
     {
@@ -475,15 +481,14 @@
       "enlace": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZXd6cU0xbnF0OHlwbncyeHZnTU1YaXVTVzZ2emkzUkNGMVdEa09fOElTZGFFRktjZ2dJUURMdHhYaDQtcUJoSEpVUUR6QV84VGdyeGFjNVpuekUwUkFHZkZ1aXJEMF9aYUFIbWFIeDdCZHg2V3JrMDdsemFpTExMZUZCOEpKQVNDcWZvNmNoWndEVUd2VVVjZnU1NGlvblRfSW85TA?oc=5",
       "fuente": "cablenoticias",
       "fecha": "2026-10-21T07:00:00.000Z"
-    },
-    {
-      "titulo": "“Míreme si no le da miedo, asqueroso heredero”: Jota Pe Hernández estalla contra Iván Cepeda en el Congreso",
-      "enlace": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNUVKMzB3ZE9LalpPMjdMVTNSeW1HeEY4VEs2N0FQS0xxaWExRjZnRTc2Y0o0RjZEN3pOZ19yWDh0R0RRaXVXVkFLaldqS1VSTUhZSHFCWDJrQkM1amU3TzhOR3hCT0xOZTRxVS0tSWlaM2RVQ2c4UWhpd0JQV2c4dGpqN2R5dlA2c2NRMmJmSXR0Skwtb205eEEzVmQ4Y0RteVl4S1NmVWwyQ01wVHpuUzFWU3FhYzlEU1BHbGxpb0FJVUF6ckU4?oc=5",
-      "fuente": "El Frente",
-      "fecha": "2026-10-21T07:00:00.000Z"
     }
   ],
   "videos": [
+    {
+      "id": "nACoTkDOueE",
+      "titulo": "🔴VENCEREMOS A LOS BANDlDOS POR LA RAZÓN O POR LA FUERZA!! ZURDOS COMO DUVALIER LO LLORAN!!",
+      "fecha": "2026-11-26T02:23:54+00:00"
+    },
     {
       "id": "UNi_blGdu4E",
       "titulo": "🔴EL PACTO PERDERÁ UNA CURUL - NUEVO CASO DE CORRUPCIÓN LOS GOLPEA!!",
@@ -518,11 +523,6 @@
       "id": "KX-lG7_DzgU",
       "titulo": "🔴EL SOLDADO ABELARDO SIGUE DERRONTANDO A LOS BANDlD0S - NUESTRAS GLORIOSAS FUERZAS ESTÁN FELICES!!",
       "fecha": "2026-11-10T16:20:53+00:00"
-    },
-    {
-      "id": "4_5izRRzM24",
-      "titulo": "🛑EN VIVO!! PETRO EN PR0BLEMAS - SUS DENUNClANTES REVELAN PRUEBAS!!",
-      "fecha": "2026-11-06T02:31:49+00:00"
     }
   ]
 }
